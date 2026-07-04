@@ -1,0 +1,17 @@
+Dependencies for Project 'Locking_System_Using_STM32-in-one-file', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_md.s)(0x532C1642)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x--list .\startup_stm32f10x_md.lst --xref -o .\startup_stm32f10x_md.o --depend .\startup_stm32f10x_md.d)
+F (C:\Keil\ARM\Startup\ST\STM32F10x\system_stm32f10x.c)(0x532C1642)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x6A34D323)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x532C1682)
+F (.\main.c)(0x6A48EE9A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x6A34D323)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x532C1682)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7E87C)
